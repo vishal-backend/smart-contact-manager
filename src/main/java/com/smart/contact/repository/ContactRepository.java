@@ -1,0 +1,16 @@
+package com.smart.contact.repository;
+import com.smart.contact.entity.Contact;
+import com.smart.contact.entity.User;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.List;
+
+public interface ContactRepository extends JpaRepository<Contact,Integer> {
+
+    List<Contact> findByUser_Id(int userId);
+    List<Contact> findByFirstNameContaining(String name);
+
+    Page<Contact> findByUser(User user, Pageable pageable);
+}
