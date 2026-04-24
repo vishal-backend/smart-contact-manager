@@ -34,7 +34,7 @@ A secure contact management REST API built with spring boot allowing user to man
 ## Live API
 - Base URL: https://smart-contact-manager-production-84ff.up.railway.app
 
----
+----
 
 ##  API Endpoints
 
