@@ -31,19 +31,9 @@ A secure contact management REST API built with spring boot allowing user to man
 
 ---
 
-# How to Run
-<br>
-1.Clone the project
-<br>
-2.Install maven Dependecy
-<br>
-3.Run the application 
-<br>
-4.open in browser or postman tool
-<br>
-
+## Live API
+-Base URL: https://smart-contact-manager-production-84ff.up.railway.app
 ---
-
 
 ##  API Endpoints
 
