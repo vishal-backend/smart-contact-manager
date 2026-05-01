@@ -39,7 +39,7 @@ public class UserService {
         existing.setEnabled(newUser.isEnabled());
 
         if(newUser.getPassword() != null && !newUser.getPassword().isEmpty()){
-            existing.setPassword(newUser.getPassword()); // ✅ FIX
+            existing.setPassword(newUser.getPassword());
         }
 
         return userRepository.save(existing);

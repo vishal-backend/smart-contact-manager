@@ -25,7 +25,7 @@ public class ContactController {
     public ResponseEntity<Page<ContactDTO>> getContacts(
             @RequestParam(defaultValue = "0") int page,
             @RequestParam(defaultValue = "5") int size,
-            @RequestParam(defaultValue = "id") String sortBy,
+            @RequestParam(defaultValue = "cId") String sortBy,
             @RequestParam(defaultValue = "true") boolean asc){
 
         return ResponseEntity.ok(contactService.getContacts(page, size, sortBy, asc));
