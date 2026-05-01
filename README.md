@@ -50,7 +50,7 @@ A secure contact management REST API built with spring boot allowing user to man
 - GET /contacts/user/{userId}
 - GET /contacts/search?name=abc
 - POST /contacts/user/{userId}
-- PUT /contacts/{id}
+-  PUT /contacts/{id}
 - DELETE /contacts/{id}
 
   ---
