@@ -16,7 +16,7 @@ A secure contact management REST API built with spring boot allowing user to man
 
 # Tech Stack
 <br>
-•Java 17+ with Spring Boot
+•Java  with Spring Boot
 <br>
 •Spring Data JPA + Hibernate
 <br> 
