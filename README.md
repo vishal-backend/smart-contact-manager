@@ -77,6 +77,13 @@ OR run the main class from IDE.
 
 ---
 
+## API Base URL
+
+```bash
+http://localhost:8080
+```
+---
+
 ## Live API
 - Base URL: https://smart-contact-manager-production-84ff.up.railway.app
 
