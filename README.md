@@ -92,13 +92,16 @@ http://localhost:8080
 ##  API Endpoints
 
 ### User APIs
+```
 - GET /users
 - GET /users/{id}
 - POST /users
 - PUT /users/{id}
 - DELETE /users/{id}
+```
 
 ### Contact APIs
+```
 - GET /contacts/{id}
 - GET /contacts/user/{userId}
 - GET /contacts/search?name=abc
@@ -108,3 +111,4 @@ http://localhost:8080
 
   ---
 
+```
