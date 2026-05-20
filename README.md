@@ -57,7 +57,6 @@ Update `application.properties`:
 spring.datasource.url=jdbc:mysql://localhost:3306/SmartManager
 spring.datasource.username=root
 spring.datasource.password=your_password
-
 spring.jpa.hibernate.ddl-auto=update
 ```
 
