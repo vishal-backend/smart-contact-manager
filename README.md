@@ -36,7 +36,7 @@ A secure contact management REST API built with spring boot allowing user to man
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vishal-backend/smart-contact-manager.git
+https://github.com/vishal-backend/smart-contact-manager.git
 ```
 
 ### 2. Open Project
