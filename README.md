@@ -109,6 +109,5 @@ http://localhost:8080
 -  PUT /contacts/{id}
 - DELETE /contacts/{id}
 
-  ---
-
 ```
+---
