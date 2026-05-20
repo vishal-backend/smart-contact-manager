@@ -54,7 +54,7 @@ CREATE DATABASE smartcontact;
 Update `application.properties`:
 
 ```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/smartcontact
+spring.datasource.url=jdbc:mysql://localhost:3306/SmartManager
 spring.datasource.username=root
 spring.datasource.password=your_password
 
