@@ -75,6 +75,8 @@ mvn spring-boot:run
 
 OR run the main class from IDE.
 
+---
+
 ## Live API
 - Base URL: https://smart-contact-manager-production-84ff.up.railway.app
 
