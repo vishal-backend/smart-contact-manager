@@ -5,16 +5,20 @@ A secure contact management REST API built with spring boot allowing user to man
 ---
 ##  Features
 
+```
 - User management (CRUD)
 - Contact management (CRUD)
 - Search contacts by name
 - Pagination & Sorting
 - RESTful API design
 - Clean layered architecture (Controller → Service → Repository)
+```
 
   ---
 
 # Tech Stack
+
+```
 <br>
 •Java  with Spring Boot
 <br>
@@ -28,6 +32,7 @@ A secure contact management REST API built with spring boot allowing user to man
 <br>
 •Git & Github for version control
 <br>
+```
 
 ---
 
