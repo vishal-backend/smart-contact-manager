@@ -34,6 +34,7 @@ A secure contact management REST API built with spring boot allowing user to man
 <br>
 •Git & Github for version control
 <br>
+
 ---
 
 ## How to Run the Project
@@ -112,6 +113,5 @@ http://localhost:8080
 - POST /contacts/user/{userId}
 -  PUT /contacts/{id}
 - DELETE /contacts/{id}
-
 ```
 ---
