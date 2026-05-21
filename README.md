@@ -1,9 +1,9 @@
 # smart-contact-manager
 
-```
+
 A secure contact management REST API built with spring boot allowing user to manage their personal contact.Each user can register, and then add, update, search, and delete contacts linked to their account. The API supports pagination and sorting on all list endpoints.
 <br>
-```
+
 
 ---
 ##  Features
@@ -21,7 +21,6 @@ A secure contact management REST API built with spring boot allowing user to man
 
 # Tech Stack
 
-```
 <br>
 •Java  with Spring Boot
 <br>
@@ -35,8 +34,6 @@ A secure contact management REST API built with spring boot allowing user to man
 <br>
 •Git & Github for version control
 <br>
-```
-
 ---
 
 ## How to Run the Project
