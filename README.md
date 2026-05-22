@@ -104,6 +104,7 @@ http://localhost:8080
 ```
 
 ### Contact APIs
+
 ```
 - GET /contacts/{id}
 - GET /contacts/user/{userId}
