@@ -52,7 +52,7 @@ Open the project in IntelliJ IDEA or VS Code.
 Create MySQL database:
 
 ```sql
-CREATE DATABASE smartcontact;
+CREATE DATABASE  contactmanager;
 ```
 
 Update `application.properties`:
