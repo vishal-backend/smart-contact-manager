@@ -4,8 +4,8 @@
 A secure contact management REST API built with spring boot allowing user to manage their personal contact.Each user can register, and then add, update, search, and delete contacts linked to their account. The API supports pagination and sorting on all list endpoints.
 <br>
 
-
 ---
+
 ##  Features
 
 - User management (CRUD)
